@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @raycoder101
+- 🌱 Building out the next gen data platform! 👍
